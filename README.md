@@ -19,9 +19,9 @@ Este projeto tem como objetivo prever o preço de pistões com base no seu peso 
 
 ```
 📂 projeto-pistoes/
-├── app.py               # App interativo com Streamlit
+├── StreamLit.py         # App interativo com Streamlit
 ├── Estudo.xlsx          # Base de dados de exemplo
-├── modelo_colab.ipynb   # Versão do projeto testada no Google Colab
+├── ML.ipynb             # Versão do projeto testada no Google Colab
 ├── requirements.txt     # Lista de dependências
 └── README.md            # Este arquivo
 ```
