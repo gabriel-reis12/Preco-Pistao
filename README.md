@@ -92,7 +92,7 @@ Ou utilize diretamente o `requirements.txt`.
 ## 👨‍💻 Autor
 
 Desenvolvido por **Seu Nome Aqui**  
-📧 Email: seu@email.com  
+📧 Email: gabroreis@gmail.com 
 🔗 [LinkedIn](https://www.linkedin.com/in/gabriel-reis-2457a5186/)
 
 ---
