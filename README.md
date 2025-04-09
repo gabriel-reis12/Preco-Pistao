@@ -91,7 +91,7 @@ Ou utilize diretamente o `requirements.txt`.
 
 ## 👨‍💻 Autor
 
-Desenvolvido por **Seu Nome Aqui**  
+Desenvolvido por Gabriel Reis  
 📧 Email: gabroreis@gmail.com 
 🔗 [LinkedIn](https://www.linkedin.com/in/gabriel-reis-2457a5186/)
 
